@@ -17,3 +17,6 @@ Using R(ci, cj) represents i unit of ci can buy how many unit of cj.
 We want to find R(c1, c2) * R(c2, c3) * ... * R(ck, c1) > 1.  
 We can use math to convert it into negative cycles in the following way:  
 
+  ![Alt text](https://github.com/SouthernPark/Arbitrage/blob/main/img/p1.PNG)  
+  
+  ![Alt text](https://github.com/SouthernPark/Arbitrage/blob/main/img/p2.PNG)  
