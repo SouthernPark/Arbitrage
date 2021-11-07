@@ -13,6 +13,7 @@ Finally, 1 usd -> 1.02 usd(0.82 · 129.7 · 12 · 0.0008 ≈ 1.02)
 
 
 # currency Arbitrage as negative cycles 
-
-
+Using R(ci, cj) represents i unit of ci can buy how many unit of cj.  
+We want to find R(c1, c2) * R(c2, c3) * ... * R(ck, c1) > 1.  
+We can use math to convert it into negative cycles in the following way:  
 
